@@ -10,7 +10,7 @@
 
 </div>
 
-<audio>
+<audio controls>
     <source src="https://rikhoffbauer.com/mission_3.mp3"></source>
 </audio>
 
